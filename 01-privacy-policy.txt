@@ -1,0 +1,27 @@
+Privacy Policy for Rise to Glory
+
+Effective date: 11 October 2026
+Developer: Aapo Virola ("I", "me", "my")
+Contact: [YOUR EMAIL]
+
+Summary. Rise to Glory does not require an account, does not show ads, and does not send your game data to any server of mine. I do not collect your personal information.
+
+1. Information stored on your device. The game saves your progress, settings (such as music and sound on or off), and your purchase status (Pro and gems) in your device's local storage. This information stays on your device. I cannot see it. It is removed when you uninstall the app or clear its data.
+
+2. Purchases. In-app purchases are handled entirely by Google Play. I do not receive or store your card or payment details. I may receive confirmation from Google Play that a purchase was completed so the app can unlock what you bought. Google's own privacy policy applies to purchases.
+
+3. Third-party services. The app uses Google Play services for purchases. When your device is online, the app may also load its fonts from Google Fonts. Like any web request, this lets Google receive your IP address and basic device information. I do not receive that information. The app does not use analytics, advertising, tracking or crash-reporting services of its own.
+
+4. Information I do not collect. I do not collect your name, email address, location, contacts, photos, files, microphone or camera data, advertising ID or device identifiers.
+
+5. Sharing. I do not sell, rent or share personal information, because I do not collect it.
+
+6. Children. Rise to Glory is not directed at children under 13, and I do not knowingly collect information from them.
+
+7. Security. Your game data is kept only on your device, so its safety depends on your device's own security. Keep your device updated and protected.
+
+8. Your rights. Because I do not hold your personal data, there is usually nothing for me to access, correct or delete. If you are in the EU or EEA you have rights under the GDPR, including access, correction, erasure, and the right to complain to your national data protection authority (in Finland, the Office of the Data Protection Ombudsman). You can contact me at any time using the email above.
+
+9. Changes. If this policy changes, I will update it here and change the effective date. Continued use of the app after a change means you accept the updated policy.
+
+10. Contact. Aapo Virola, [YOUR EMAIL]

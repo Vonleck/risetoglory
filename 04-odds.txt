@@ -1,0 +1,14 @@
+Odds and probabilities (random rewards and simulated gambling)
+
+Chest odds (also shown in the Game next to each chest):
+- Iron Chest (40 gems): 50% common relic, 25% rare relic, 25% gold coins. The gold coins are a quarter of the coins you hold when you open it, with a minimum of 10 coins.
+- Golden Chest (120 gems): 55% rare relic, 42% epic relic, 3% legendary relic.
+- Royal Chest (300 gems): 45% epic relic, 55% legendary relic.
+
+Within a rarity, every relic of that rarity is equally likely. There are 6 common, 10 rare, 7 epic and 9 legendary relics. If you already own the relic you get, it is turned into gems instead: 3 gems for common, 8 for rare, 15 for epic and 30 for legendary.
+
+Simulated gambling odds (virtual coins only):
+- Coin flip: 48% chance to win, pays 2 times the stake.
+- Dice (over or under 7): about 41.7% chance to win, pays 2.2 times the stake. A total of exactly 7 loses.
+- Roulette: red or black about 48.6% chance, pays 2 times the stake. Green about 2.7% chance, pays 35 times the stake.
+- Slots: three matching symbols about 4% chance, pays 10 times the stake. Two matching symbols about 48% chance, returns the stake.

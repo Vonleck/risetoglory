@@ -1,0 +1,40 @@
+STORE LISTING (ENGLISH)
+
+App name: Rise to Glory
+Developer name: Aapo Virola
+Category: Game > Casual (or Simulation)
+
+SHORT DESCRIPTION (80 characters or fewer)
+Rise from peasant to god-emperor in this medieval idle clicker.
+
+FULL DESCRIPTION
+Start as a penniless peasant mucking out stables and rise through 25 ranks to become a God-Emperor.
+
+Tap to earn coins, learn skills, build an empire and let your fortune grow even while you are away.
+
+FEATURES
+- 25 ranks, from Peasant and Stable Hand to King, Emperor and God-Emperor
+- Dozens of jobs and skills you can learn and upgrade, from begging at the gate to court intrigue
+- Buy houses, horses and lordships as investments. They wear down and cost upkeep, so keep them in good condition or sell them
+- Hire servants and take a spouse for bonuses, but watch the wages
+- Once you are a king, found cities, rule subjects and set your taxes
+- Collect 32 relics in four rarities from chests, each with its own artwork
+- Try your luck in the back alley with coin flips, dice, roulette and slots, using virtual coins only
+- Dig for gems in the gem mine, complete achievements and earn honorary titles
+- Be reborn for permanent bonuses
+- Earn coins while you are offline
+- Ambient medieval music and a parchment-and-scroll look
+- Works offline, no account needed, no ads
+
+RISE TO GLORY PRO (one-time purchase)
+Unlock more skills, estates, lordships and cities, extra gambling games, rebirth, longer offline earnings and a gem bonus.
+
+The game contains optional in-app purchases and simulated gambling with virtual coins only. No real money can be won or lost.
+
+RELEASE NOTES (first release)
+<en-US>
+First release of Rise to Glory! Start as a peasant and rise through 25 ranks to God-Emperor. Learn skills, buy houses and horses, hire servants, found cities, collect relics from chests, dig for gems and enjoy ambient medieval music. Works offline, no ads.
+</en-US>
+<fi-FI>
+Rise to Glory ensimmäinen julkaisu! Aloita talonpoikana ja nouse 25 arvon kautta jumalkeisariksi. Opi taitoja, osta taloja ja hevosia, palkkaa palvelijoita, perusta kaupunkeja, kerää esineitä arkuista, kaiva jalokiviä ja nauti keskiaikaisesta tunnelmamusiikista. Toimii ilman nettiyhteyttä, ei mainoksia.
+</fi-FI>
